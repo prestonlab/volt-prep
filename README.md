@@ -311,4 +311,4 @@ This software is not sponsored by or affiliated with Unity Technologies or its a
 
 ## Acknowledgments
 
-Thanks to Neal Morton, Hannah Roome, Athula Pudhiyidath, Christine Coughlin, and Nicole Varga for valuable discussions.
+Thanks to Neal Morton, Hannah Roome, Athula Pudhiyidath, Christine Coughlin, Nicole Varga, and Meg Schlichting for valuable discussions.
