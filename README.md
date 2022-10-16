@@ -1,5 +1,5 @@
 # Volt
-[Short description] Volt is a virtual world paradigm built in Unity to help test spatial perception and navigation ability in human participants.
+Volt is a virtual object location task used to measure cognitive map formation in humans as they learn and remember the locations of objects in naturalistic environments.
 
 - [Volt](#volt)
   - [Getting Started - Prebuilt](#getting-started---prebuilt)
